@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// factorial program
 public class fact 
 {
 
