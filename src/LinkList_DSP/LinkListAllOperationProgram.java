@@ -188,7 +188,7 @@ class LinkList
 		
 	}
 }	
-public class QueueAllOperationProgram 
+public class LinkListAllOperationProgram 
 { 
 	
 	public static void main(String[] args) 
